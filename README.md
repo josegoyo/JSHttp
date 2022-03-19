@@ -1,6 +1,6 @@
-# EJemplos de Promesas y Callbacks
+# EJemplos de peticiones HTTP con JS
 
-Ejemplos en js
+Ejemplos en js usando fetch
 
 Instalacion de dependencias `npm i`\
 Build en modo `dev`: `npm run build:dev`\
